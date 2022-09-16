@@ -1,0 +1,32 @@
+{
+    "selectedTrack": 0,
+    "trackList": [
+        {
+            "sequence": "*-------------------*-----------*-------------------*-----------",
+            "fileName": "kick.wav",
+            "name": "Kick",
+            "enabled": true
+        },
+        {
+            "sequence": "--------*---------------*---------------*---------------*-------",
+            "fileName": "snare.wav",
+            "name": "Snare",
+            "enabled": true
+        },
+        {
+            "sequence": "--------*---------------*---------------*---------------*-------",
+            "fileName": "clap.wav",
+            "name": "Clap",
+            "enabled": true
+        },
+        {
+            "sequence": "*-*-*-*-*-*-*-*-*-*-*-*-*-*-*****-*-*-*-*-*-*-*-*-*-*-*-*-*-****",
+            "fileName": "hat1.wav",
+            "name": "Hat",
+            "enabled": true
+        }
+    ],
+    "name": "Example Project",
+    "length": 64,
+    "tempo": 160
+}
